@@ -24,8 +24,8 @@
   <a href="https://www.linkedin.com/in/thang-ddang/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/channel/thang.d2382">
-   <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=thang.d2382&key=[YOUR API KEY]"/>
+  <a href="https://www.youtube.com/channel/thang.d2382" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </div>
 <!--Skills-->
