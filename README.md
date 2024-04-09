@@ -9,10 +9,13 @@ My name is Thang Diem Dang. I am a Computer Science graduate, a passionate and d
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://fb.com/ddthang.94" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ddthang.94" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ddthang.94" height="20" width="20" />
   </a>
 </p>
 
+<p>
+  <img align="left" src="https://gifdb.com/gif/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.html?embed=true" height="30" width="20"/>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
