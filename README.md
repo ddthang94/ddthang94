@@ -13,11 +13,8 @@ Currently, I am focusing on Java programming with Spring frameworks, including S
 <!--SocialMedia-->
 <p align="left">
   <h3>Connect with me at: </h3>
-  <a href="https://fb.com/ddthang.94" style="text-decoration:none;" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ddthang.94" height="20" width="20" />
-  </a>
-  <a href="www.linkedin.com/in/thang-ddang" style="text-decoration:none;" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thang-ddang" height="20" width="20" />
+  <a href="**ddthang21194@gmail.com**">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -25,6 +22,6 @@ Currently, I am focusing on Java programming with Spring frameworks, including S
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,git,py,cs,html,css,js,react,mySQL,mongoDB,linux" />
+    <img src="https://skillicons.dev/icons?i=java,spring,git,py,cs,html,css,js,react,mysql,mongodb,linux" />
   </a>
 </p>
