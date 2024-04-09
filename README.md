@@ -15,7 +15,7 @@
 <!--SocialMedia-->
 <p align="left">
   <h3>⭐Connect with me at👇 </h3>
-  <a href="mailto:ddthang21194@gmail.com" target="_blank" style="max-width:inherit;">
+  <a href="mailto:ddthang21194@gmail.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/ddthang.94/" target="_blank">
