@@ -1,11 +1,14 @@
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=ddthang94&label=Profile%20views&color=0e75b6&style=flat" alt="ddthang94" /> </p>
+
 ## Hi there 👋
 
 My name is Thang Diem Dang. I am a Computer Science graduate, a passionate and dedicated individual with a strong interest in software development and artificial intelligence. Currently, I am focusing on Java programming with Spring frameworks, including Spring Boot and Spring Microservices. Additionally, I am eager to expand my career further in AI, ML, and computer vision.
+
 📫 How to reach me **ddthang21194@gmail.com**
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ddthang94&label=Profile%20views&color=0e75b6&style=flat" alt="ddthang94" /> </p>
+
 <p align="left">
-  <h3 align="left">Connect with me:</h3>
+  <h3 align="left">Connect with me at: </h3>
   <a href="https://fb.com/ddthang.94" style="text-decoration:none;" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ddthang.94" height="20" width="20" />
   </a>
