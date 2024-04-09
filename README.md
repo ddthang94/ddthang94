@@ -6,15 +6,13 @@ My name is Thang Diem Dang. I am a Computer Science graduate, a passionate and d
   <img src="https://komarev.com/ghpvc/?username=ddthang94&label=Profile%20views&color=0e75b6&style=flat" alt="ddthang94" /> </p>
 <p align="left">
   <h3 align="left">Connect with me:</h3>
-  <a href="https://fb.com/ddthang.94" target="_blank">
+  <a href="https://fb.com/ddthang.94" style="text-decoration:none;" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ddthang.94" height="20" width="20" />
   </a>
-  <a href="www.linkedin.com/in/thang-ddang" target="_blank">
+  <a href="www.linkedin.com/in/thang-ddang" style="text-decoration:none;" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thang-ddang" height="20" width="20" />
   </a>
 </p>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ddthang94&label=Profile%20views&color=0e75b6&style=flat" alt="ddthang94" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
