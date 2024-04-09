@@ -13,7 +13,7 @@
 
 ⚡⚡⚡Currently, I am focusing on Java programming with Spring frameworks, including Spring Boot and Spring Microservices. Additionally, I am eager to expand my career further in AI, ML, and computer vision.
 <!--SocialMedia-->
-<div style="display: flex">
+<div style="display: flex; text-decoration:none;">
   <h3>⭐Connect with me at👇 </h3>
   <a href="mailto:ddthang21194@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
