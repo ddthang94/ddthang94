@@ -13,21 +13,23 @@
 
 ⚡⚡⚡Currently, I am focusing on Java programming with Spring frameworks, including Spring Boot and Spring Microservices. Additionally, I am eager to expand my career further in AI, ML, and computer vision.
 <!--SocialMedia-->
-<p align="left">
+<div align="left">
   <h3>⭐Connect with me at👇 </h3>
-  <a href="mailto:ddthang21194@gmail.com" style="text-decoration:none;" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/ddthang.94/" style="text-decoration:none;" target="_blank">
+  <p style="text-decoration:none;" target="_blank">
+    <a href="mailto:ddthang21194@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+  <a href="https://www.facebook.com/ddthang.94/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/thang-ddang/" style="text-decoration:none;" target="_blank">
+  <a href="https://www.linkedin.com/in/thang-ddang/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="" style="text-decoration:none;" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-</p>
+</div>
 <!--Skills-->
 <h3 align="left">⭐Languages and Tools👇</h3>
 <p align="left">
