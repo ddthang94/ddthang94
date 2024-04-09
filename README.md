@@ -51,3 +51,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddthang94&repo=BankManagementSystem&theme=omni)](https://github.com/ddthang94/BankManagementSystem.git)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddthang94&repo=chat-app&theme=aura)](https://github.com/ddthang94/chat-app.git)
+
