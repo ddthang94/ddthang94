@@ -42,7 +42,7 @@
 
 ![Thang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddthang94&showicons=true&theme=bear&hide=contribs,prs)
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddthang94&layout=compact)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddthang94&layout=compact)
 
 <hr/>
 <h3 align="left">💼 Repositories</h3>
