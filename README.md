@@ -9,12 +9,12 @@
   </a>
 </h1>
 <!--Introducing-->
-⚡⚡⚡I am a Computer Science graduate, a passionate and dedicated individual with a strong interest in software development and artificial intelligence. 
+⚡⚡⚡I am a Computer Science graduate, a passionate and dedicated individual with a strong interest in software development and artificial intelligence.
 ⚡⚡⚡Currently, I am focusing on Java programming with Spring frameworks, including Spring Boot and Spring Microservices. Additionally, I am eager to expand my career further in AI, ML, and computer vision.
 <!--SocialMedia-->
 <p align="left">
   <h3>⭐Connect with me at👇 </h3>
-  <a href="" target="_blank">
+  <a href="mailto:ddthang21194@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
