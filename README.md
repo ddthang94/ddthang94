@@ -47,11 +47,11 @@
 <hr/>
 <h3 align="left">💼 Repositories</h3>
 
-<a href="https://github.com/ddthang94/BankManagementSystem/">
+<a href="https://github.com/ddthang94/BankManagementSystem.git">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ddthang94&repo=BankManagementSystem&theme=omni" />
 </a>
 
-<a href="https://github.com/ddthang94/chat-app/">
+<a href="https://github.com/ddthang94/chat-app.git">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ddthang94&repo=chat-app&theme=dracula" />
 </a>
 
