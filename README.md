@@ -13,7 +13,7 @@
 
 ⚡⚡⚡Currently, I am focusing on Java programming with Spring frameworks, including Spring Boot and Spring Microservices. Additionally, I am eager to expand my career further in AI, ML, and computer vision.
 <!--SocialMedia-->
-<div style="display: flex;">
+<div>
   <h3>⭐Connect with me at👇 </h3>
   <a href="mailto:ddthang21194@gmail.com" text-decoration:none;>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -24,8 +24,8 @@
   <a href="https://www.linkedin.com/in/thang-ddang/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://www.youtube.com/channel/thang.d2382">
+   <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=thang.d2382&key=[YOUR API KEY]"/>
   </a>
 </div>
 <!--Skills-->
