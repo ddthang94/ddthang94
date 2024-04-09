@@ -9,9 +9,7 @@
   </a>
 </p>
 <!--Introducing-->
-⭐ I am a Computer Science graduate, a passionate and dedicated individual with a strong interest in software development and artificial intelligence.
-<br/>
-<br/>
+⭐ I am a Computer Science graduate, a passionate and dedicated individual with a strong interest in software development and artificial intelligence.<br/>
 ⚡⚡Currently, I am focusing on Java programming with Spring frameworks, including Spring Boot and Spring Microservices. Additionally, I am eager to expand my career further in AI, ML, and computer vision.
 <hr/>
 <!--SocialMedia-->
@@ -32,7 +30,7 @@
 </div>
 <h6 align="left">🔭***NOTE: Ctrl + Right_Click on the icon to open new Tab</h6>
 <hr/>
-<h3 align="left">⚒️ Languages and Tools: </h3>
+<h3 align="left">⚒️ Languages and Tools...📖 </h3>
 <!--Skills-->
 <div align="center">
   <a href="https://github.com/ddthang94">
@@ -49,7 +47,11 @@
 <hr/>
 <h3 align="left">💼 Repositories</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddthang94&repo=BankManagementSystem&theme=omni)](https://github.com/ddthang94/BankManagementSystem.git)
+<a href="https://github.com/ddthang94/BankManagementSystem/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ddthang94&repo=BankManagementSystem&theme=omni" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ddthang94&repo=chat-app&theme=aura)](https://github.com/ddthang94/chat-app.git)
+<a href="https://github.com/ddthang94/chat-app/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ddthang94&repo=chat-app&theme=dracula" />
+</a>
 
