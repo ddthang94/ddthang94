@@ -2,7 +2,8 @@
 
 My name is Thang Diem Dang. I am a Computer Science graduate, a passionate and dedicated individual with a strong interest in software development and artificial intelligence. Currently, I am focusing on Java programming with Spring frameworks, including Spring Boot and Spring Microservices. Additionally, I am eager to expand my career further in AI, ML, and computer vision.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ddthang94&label=Profile%20views&color=0e75b6&style=flat" alt="ddthang94" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ddthang94&label=Profile%20views&color=0e75b6&style=flat" alt="ddthang94" /> </p>
 
 📫 How to reach me **ddthang21194@gmail.com**
 
@@ -12,9 +13,9 @@ My name is Thang Diem Dang. I am a Computer Science graduate, a passionate and d
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ddthang.94" height="20" width="20" />
   </a>
 </p>
-
+[https://gifdb.com/gif/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.html?embed=true](https://gifdb.com/gif/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.html?embed=true)
 <p>
-  <img align="left" src="https://gifdb.com/gif/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.html?embed=true" height="30" width="20"/>
+  <img align="left" src="[https://gifdb.com/gif/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.html?embed=true](https://gifdb.com/gif/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.html?embed=true)" height="30" width="30"/>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
