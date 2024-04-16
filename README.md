@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </div>
-<h6 align="left">🔭***NOTE: Ctrl + Right_Click on the icon to open new Tab</h6>
+<!-- <h6 align="left">🔭***NOTE: Ctrl + Right_Click on the icon to open new Tab</h6> -->
 <hr/>
 <h3 align="left">⚒️ Languages and Tools...📖 </h3>
 <!--Skills-->
